@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    padding: 160px;
+    background-image: url(https://i.ibb.co/tJrKnHs/background-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+h3 {
+    font-size: 16px;
+    color:#ffffff ;
+    line-height: 19px;
+}
+h3  span {
+    color: #ffc700; 
+}
+
+h1 {
+    color: #ffc700;
+    font-weight: 400;
+    font-size: 64px;
+    font-weight: 80px;
+
+    font-family: 'Emilys candy', cursive;
+}
+p {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 72px;
+    color: white;
+    opacity: .7;
+}
+a {
+    padding: 12px 32px;
+    font-weight: 700;
+    border-radius: 24px;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    opacity: .6;
+}
+
+a:hover, .btn-primary {
+    text-decoration: none;
+    color: black;
+    background-color: #FFC700;
+    opacity: 1;
+}
+
